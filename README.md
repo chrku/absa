@@ -1,0 +1,2 @@
+# absa
+ Aspect-Oriented Sentiment Analysis or Aspect Based Sentiment Analysis (ABSA) is an NLP task. It is a more 􏰁ne-grained version of the sentiment analysis task. In sentiment analysis, the task is to 􏰁nd out whether a given piece of text has a certain polarity, i.e. to 􏰁nd out whether it has a certain sentiment. An example is "the food is bad", which has a negative sentiment. This is a special case of text classi􏰁cation. This kind of task can come up in many applications, e.g. in processing reviews from customers to gauge customer satisfaction.
